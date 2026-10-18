@@ -39,6 +39,7 @@ class Solution {
             else if(ratings[i]==ratings[i-1]){
                 totalcandies+=1;
             }
+            else
         }
     }
 }
