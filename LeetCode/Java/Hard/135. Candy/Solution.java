@@ -25,6 +25,9 @@
 class Solution {
     public int candy(int[] ratings) {
         int n=ratings.length;
+        if(n==0){
+            return 0;
+        }
         int up=0;
         int down=0;
         int peak=0;
@@ -37,9 +40,21 @@ class Solution {
                 totalcandies+=1+up;
             }
             else if(ratings[i]==ratings[i-1]){
+                up=0;
+                down=0;
+                peak=0;
                 totalcandies+=1;
             }
-            else
+            else{
+                down++;
+                up=0;
+                totalcandies+=down;
+
+                if(down>peak){
+                    totalcandies+=1;
+                }
+            }
         }
+        return totalcandies;
     }
 }
