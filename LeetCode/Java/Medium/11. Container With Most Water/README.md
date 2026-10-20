@@ -1,6 +1,6 @@
 # 📝 11. Container With Most Water (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/container-with-most-water/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/container-with-most-water/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Greedy
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 5 ms
+- **Memory:** 77.3 MB
 
 ---
 
