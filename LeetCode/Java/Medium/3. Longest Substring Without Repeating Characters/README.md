@@ -1,6 +1,6 @@
 # 📝 3. Longest Substring Without Repeating Characters (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Hash Table, String, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 64 ms
+- **Memory:** 47.3 MB
 
 ---
 
