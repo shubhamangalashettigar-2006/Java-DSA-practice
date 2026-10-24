@@ -9,7 +9,10 @@ class Solution {
             else{
                 crnt=0;
             }
-            maxOnes=Math.max(maxOnes,crnt);
+            // maxOnes=Math.max(maxOnes,crnt);
+            if(crnt>maxOnes){
+                maxOnes=crnt;
+            }
         }
         return maxOnes;
     }
