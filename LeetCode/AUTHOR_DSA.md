@@ -162,7 +162,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Split Array into Consecutive Subsequences
 
 ### 📂 PART  1: STRING BASICS & CHARACTER MANIP
-- [x] [Defanging an IP Address](./Java/Easy/1108. Defanging an IP Address/)
+- [x] [Defanging an IP Address](./Java/Easy/1205. Defanging an IP Address/)
 - [ ] Score of a String
 - [ ] Reverse String
 - [ ] Truncate Sentence
