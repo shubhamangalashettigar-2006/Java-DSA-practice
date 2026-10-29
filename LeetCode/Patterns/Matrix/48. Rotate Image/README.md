@@ -1,6 +1,6 @@
 # 📝 48. Rotate Image (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/rotate-image/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/rotate-image/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
