@@ -1,6 +1,6 @@
 # 📝 289. Game of Life (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/game-of-life/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/game-of-life/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
