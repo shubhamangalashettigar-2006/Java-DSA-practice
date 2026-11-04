@@ -33,7 +33,7 @@ class Solution {
                     count++;
                     while(seen.get(word)>map.get(word)){
                         String leftword=s.substring(left,left+wordLen);
-                        seen.put(leftword,seen.getOrDefault(leftword,0)-1);
+                        seen.put(leftword,seen.get(leftword)-1);
                         left+=wordLen;
                         count--;
                     }
