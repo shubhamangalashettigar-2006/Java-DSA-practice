@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 10 / 150 (6.7%)
+- **Completed:** 11 / 150 (7.3%)
 
 ---
 
@@ -51,7 +51,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [x] [Find Minimum in Rotated Sorted Array](./Java/Medium/153. Find Minimum in Rotated Sorted Array/)
 - [x] [Search in Rotated Sorted Array](./Java/Medium/33. Search in Rotated Sorted Array/)
 - [ ] Time Based Key-Value Store
-- [ ] Median of Two Sorted Arrays
+- [x] [Median of Two Sorted Arrays](./Java/Hard/4. Median of Two Sorted Arrays/)
 
 ### 📂 Linked List
 - [ ] Reverse Linked List
