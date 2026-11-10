@@ -1,6 +1,6 @@
 # 📝 20. Valid Parentheses (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-parentheses/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/valid-parentheses/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 String, Stack, Bracket Sequences
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 43.2 MB
 
 ---
 
@@ -26,7 +26,7 @@ An input string is valid if:
 	
 3. Every close bracket has a corresponding open bracket of the same type.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 **Input:**  s = "()"
 
