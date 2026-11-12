@@ -1,6 +1,6 @@
 # 📝 71. Simplify Path (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/simplify-path/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/simplify-path/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 String, Stack
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 44.1 MB
 
 ---
 
@@ -41,7 +41,7 @@ The simplified canonical path should follow these  *rules* :
 
 Return the  **simplified canonical path** .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 **Input:**  path = "/home/"
 
