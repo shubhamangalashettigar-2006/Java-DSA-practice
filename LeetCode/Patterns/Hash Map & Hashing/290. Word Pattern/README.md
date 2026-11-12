@@ -1,6 +1,6 @@
 # 📝 290. Word Pattern (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/word-pattern/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/word-pattern/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Hash Table, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 41.6 MB
 
 ---
 
@@ -26,7 +26,7 @@ Here  **follow**  means a full match, such that there is a bijection between a l
 	
 - No two letters map to the same word, and no two words map to the same letter.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 **Input:**  pattern = "abba", s = "dog cat cat dog"
 
