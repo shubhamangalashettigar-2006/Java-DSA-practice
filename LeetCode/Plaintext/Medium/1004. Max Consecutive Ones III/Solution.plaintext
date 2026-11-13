@@ -1,0 +1,10 @@
+                numberofZeros++;
+            }
+            while(numberofZeros>k){
+                if(nums[left]==0){
+        int crt=0;
+        int numberofZeros=0;
+        int left=0;
+        int ans=0;
+        for(int right=0;right<nums.length;right++){
+            if(nums[right]==0){
